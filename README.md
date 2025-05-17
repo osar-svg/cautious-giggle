@@ -20,16 +20,14 @@ Use Android Studio to build a signed release version of your app:
 - Go to Build > Generate Signed Bundle / APK in Android Studio.
 
 3. Create a New App in Google Play Console
-Go to the Google Play Console
-
-Click “Create app”
-
-Fill out:
-- App name
-- Default language
-- App or game
-- Free or paid
-- Developer policies and export compliance
+- Go to the Google Play Console
+- Click “Create app”
+  Fill out:
+  - App name
+  - Default language
+  - App or game
+  - Free or paid
+  - Developer policies and export compliance
 
 4. Prepare Store Listing
 Fill out all the required fields:
@@ -50,15 +48,14 @@ Fill out all the required fields:
 - Add release notes
 
 6. Complete App Content
-Go to “Policy > App Content”
-
-Fill in:
-- Privacy Policy
-- Ads declaration
-- App access
-- Content rating questionnaire
-- Target audience and content
-- News app declaration (if applicable)
+- Go to “Policy > App Content”
+  Fill in:
+  - Privacy Policy
+  - Ads declaration
+  - App access
+  - Content rating questionnaire
+  - Target audience and content
+  - News app declaration (if applicable)
 
 7. Set Pricing and Distribution
 - Go to “Monetize > Pricing”
